@@ -1,0 +1,21 @@
+body{
+    height: 100px;
+    display: grid;
+    background-color: rgb(69, 169, 232);
+    place-items: center;
+}
+
+.sun{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    background-color: yellow;
+}
+
+.grass{
+    height: 200px;
+    width: 100%;
+    position: relative;
+    background-color: green;
+}
